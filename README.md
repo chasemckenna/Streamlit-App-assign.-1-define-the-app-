@@ -4,15 +4,21 @@
 Chase McKenna
 
 ## App Description
-Higher or Lower is a simple card-guessing game where players predict whether the next card will be higher or lower than the current card. The goal is to make correct guesses, build a score, and see how long a winning streak can last.
+Higher or Lower is an interactive number-guessing game. Players choose a difficulty range, then predict whether the next randomly drawn number will be higher or lower than the current number. Correct guesses build a streak, while an incorrect guess resets it.
 
 ## Intended Users
 This app is intended for casual players who enjoy quick guessing games and anyone looking for a simple, easy-to-learn way to pass a few minutes.
 
+## Current Features
+- Choose Easy, Standard, or Hard number ranges.
+- Guess whether the next number will be higher or lower.
+- See the drawn number, immediate result, and current correct-guess streak.
+- Restart the game at any time.
+
 ## Planned Features
-- Guess whether the next card is higher or lower.
-- Track the player's score and consecutive correct guesses.
-- Offer a replay option and clear game-over results.
+- Add optional card suits and face-card display for a classic card-game mode.
+- Add a best-streak record that persists between visits.
+- Add a short rules/help section and additional game statistics.
 
 ## Run Locally
 Install the requirements and start the app with:
